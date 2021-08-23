@@ -8,6 +8,7 @@ authors = ["Z1R343L <jan2705g@gmail.com>"]
 python = "^3.9"
 httpx = "^0.18.2"
 dill = "^0.3.4"
+munch = "^2.5.0"
 
 [tool.poetry.dev-dependencies]
 black = "\b0"
